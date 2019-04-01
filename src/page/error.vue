@@ -3,6 +3,7 @@
         <HeaderBar></HeaderBar>
             <Content>
                 <div class="error-content">
+                    <!--资源不存在 -->
                     <p v-if="type === 'nores'" class="error-msg">
                         你访问的资源不存在
                     </p>

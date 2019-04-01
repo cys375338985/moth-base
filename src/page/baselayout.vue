@@ -39,7 +39,6 @@
         overflow-y: scroll;
         .page-body{;
             height: calc(~"100% - 64px");
-
         }
     }
 </style>
